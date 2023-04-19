@@ -1,6 +1,6 @@
-package work0419;
+package testgit;
 
-public class work1 {
+public class testgit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
