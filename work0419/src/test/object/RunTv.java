@@ -6,7 +6,7 @@ public class RunTv {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		TV tv1 = new TV();
+		TV tv1 = new TV(); // main memory에 적재(객체가 생성 된다)
 		TV tv2 = new TV();
 		
 		tv1.setProducer("삼성전자");
